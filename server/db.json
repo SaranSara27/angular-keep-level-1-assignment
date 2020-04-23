@@ -4,6 +4,16 @@
       "id": 1,
       "title": "Read Angular 5 blog",
       "text": "Shall do at 6 pm"
+    },
+    {
+      "title": "assignment",
+      "text": "angular",
+      "id": 2
+    },
+    {
+      "title": "stand up call",
+      "text": "internal meeting with Akila @ 3.30pm",
+      "id": 3
     }
   ]
 }
